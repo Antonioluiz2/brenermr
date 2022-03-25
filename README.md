@@ -5,6 +5,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenermr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenermr&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+  
+  
+## Learning
+  
+  
+  <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Brener-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Brener-Android-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+    <img align="center" alt="Brener-Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+</div>
+  
+## Hard Skills
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Brener-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
